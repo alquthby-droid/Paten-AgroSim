@@ -1,0 +1,6 @@
+{
+  "name": "Paten AgroSim - Kalkulator Pupuk Paten Gold",
+  "description": "Simulasi kebutuhan pupuk Paten Gold, air, insektisida, komparasi biaya pupuk kimia konvensional vs Paten Gold, analisis ROI, dan proyeksi keuntungan jangka panjang untuk Jagung, Padi, dan Tembakau.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
